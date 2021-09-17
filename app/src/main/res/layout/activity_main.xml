@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="#FF6D62"
+    android:background="#CFC9C9"
     android:orientation="vertical">
     <LinearLayout
         android:layout_width="match_parent"
@@ -30,7 +30,7 @@
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:background="#fff"
-        android:layout_margin="40dp">
+        android:layout_margin="30dp">
 
         <TextView
             android:id="@+id/tv"
@@ -57,7 +57,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#68EADE"
+                android:background="#FFFFFF"
                 android:text="7"
                 android:layout_margin="6dp"
                 android:textColor="#111"
@@ -71,7 +71,7 @@
                 android:text="8"
                 android:layout_margin="6dp"
                 android:textColor="#111"
-                android:background="#68EADE"
+                android:background="#FFFFFF"
                 android:textSize="30dp"/>
 
             <Button
@@ -81,7 +81,7 @@
                 android:layout_height="wrap_content"
                 android:text="9"
                 android:layout_margin="6dp"
-                android:background="#68EADE"
+                android:background="#FFFFFF"
                 android:textColor="#111"
                 android:textSize="30dp"/>
 
@@ -92,7 +92,7 @@
                 android:layout_height="wrap_content"
                 android:text="/"
                 android:layout_margin="6dp"
-                android:background="#01FF0B"
+                android:background="#8E8B8B"
                 android:textColor="#111"
                 android:textSize="30dp"/>
         </TableRow>
@@ -105,7 +105,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#68EADE"
+                android:background="#FFFFFF"
                 android:text="4"
                 android:layout_margin="6dp"
                 android:textColor="#111"
@@ -119,7 +119,7 @@
                 android:layout_height="wrap_content"
                 android:text="5"
                 android:layout_margin="6dp"
-                android:background="#68EADE"
+                android:background="#FEFFFF"
                 android:textColor="#111"
                 android:textSize="30dp"/>
 
@@ -128,7 +128,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#68EADE"
+                android:background="#FBFBFB"
                 android:text="6"
                 android:layout_margin="6dp"
                 android:textColor="#111"
@@ -141,7 +141,7 @@
                 android:layout_height="wrap_content"
                 android:text="x"
                 android:layout_margin="6dp"
-                android:background="#01FF0B"
+                android:background="#8E8B8B"
                 android:textColor="#111"
                 android:textSize="30dp"/>
         </TableRow>
@@ -154,7 +154,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#68EADE"
+                android:background="#FFFFFF"
                 android:text="1"
                 android:layout_margin="6dp"
                 android:textColor="#111"
@@ -165,7 +165,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#68EADE"
+                android:background="#F7FAF9"
                 android:text="2"
                 android:layout_margin="6dp"
                 android:textColor="#111"
@@ -176,7 +176,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#68EADE"
+                android:background="#FAFFFF"
                 android:text="3"
                 android:layout_margin="6dp"
                 android:textColor="#111"
@@ -189,7 +189,7 @@
                 android:layout_height="wrap_content"
                 android:text="-"
                 android:layout_margin="6dp"
-                android:background="#01FF0B"
+                android:background="#8E8B8B"
                 android:textColor="#111"
                 android:textSize="30dp"/>
         </TableRow>
@@ -202,7 +202,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#F6D86C"
+                android:background="#8E8B8B"
                 android:text="."
                 android:layout_margin="6dp"
                 android:textColor="#111"
@@ -213,7 +213,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#68EADE"
+                android:background="#EFF4F4"
                 android:text="0"
                 android:layout_margin="6dp"
                 android:textColor="#111"
@@ -224,7 +224,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:background="#F6D86C"
+                android:background="#8E8B8B"
                 android:text="="
                 android:layout_margin="6dp"
                 android:textColor="#111"
@@ -237,7 +237,7 @@
                 android:layout_height="wrap_content"
                 android:text="+"
                 android:layout_margin="6dp"
-                android:background="#01FF0B"
+                android:background="#8E8B8B"
                 android:textColor="#111"
                 android:textSize="30dp"/>
         </TableRow>
